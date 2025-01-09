@@ -1,0 +1,169 @@
+[09-Jan-2025 14:50:34 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[09-Jan-2025 14:50:34 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[09-Jan-2025 14:50:34 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[09-Jan-2025 14:50:34 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[09-Jan-2025 14:55:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\curl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:55:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\mbstring' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:55:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\openssl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:55:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\zip' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:55:00 Europe/Paris] PHP Parse error:  syntax error, unexpected '?' in C:\php\gestion-stages\vendor\autoload_runtime.php on line 15
+[09-Jan-2025 15:55:00 Europe/Paris] PHP Stack trace:
+[09-Jan-2025 15:55:00 Europe/Paris] PHP   1. {main}() C:\php\gestion-stages\bin\console:0
+[09-Jan-2025 14:55:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\curl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:55:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\mbstring' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:55:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\openssl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:55:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\zip' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:55:42 Europe/Paris] PHP Parse error:  syntax error, unexpected '?' in C:\php\gestion-stages\vendor\autoload_runtime.php on line 15
+[09-Jan-2025 15:55:42 Europe/Paris] PHP Stack trace:
+[09-Jan-2025 15:55:42 Europe/Paris] PHP   1. {main}() C:\php\gestion-stages\bin\console:0
+[09-Jan-2025 14:55:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\curl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:55:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\mbstring' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:55:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\openssl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:55:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\zip' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:55:52 Europe/Paris] PHP Parse error:  syntax error, unexpected '?' in C:\php\gestion-stages\vendor\autoload_runtime.php on line 15
+[09-Jan-2025 15:55:52 Europe/Paris] PHP Stack trace:
+[09-Jan-2025 15:55:52 Europe/Paris] PHP   1. {main}() C:\php\gestion-stages\bin\console:0
+[09-Jan-2025 14:55:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\curl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:55:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\mbstring' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:55:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\openssl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:55:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\zip' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:55:56 Europe/Paris] PHP Parse error:  syntax error, unexpected '?' in C:\php\gestion-stages\vendor\autoload_runtime.php on line 15
+[09-Jan-2025 15:55:56 Europe/Paris] PHP Stack trace:
+[09-Jan-2025 15:55:56 Europe/Paris] PHP   1. {main}() C:\php\gestion-stages\bin\console:0
+[09-Jan-2025 14:57:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\curl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:57:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\mbstring' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:57:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\openssl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:57:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\zip' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:57:49 Europe/Paris] PHP Parse error:  syntax error, unexpected '?' in C:\php\gestion-stages\vendor\autoload_runtime.php on line 15
+[09-Jan-2025 15:57:49 Europe/Paris] PHP Stack trace:
+[09-Jan-2025 15:57:49 Europe/Paris] PHP   1. {main}() C:\php\gestion-stages\bin\console:0
+[09-Jan-2025 14:58:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\curl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:58:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\mbstring' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:58:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\openssl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:58:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\zip' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:58:44 Europe/Paris] PHP Parse error:  syntax error, unexpected '?' in C:\php\gestion-stages\vendor\autoload_runtime.php on line 15
+[09-Jan-2025 15:58:44 Europe/Paris] PHP Stack trace:
+[09-Jan-2025 15:58:44 Europe/Paris] PHP   1. {main}() C:\php\gestion-stages\bin\console:0
+[09-Jan-2025 14:59:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\curl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:59:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\mbstring' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:59:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\openssl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:59:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\zip' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:59:02 Europe/Paris] PHP Parse error:  syntax error, unexpected '?' in C:\php\gestion-stages\vendor\autoload_runtime.php on line 15
+[09-Jan-2025 15:59:02 Europe/Paris] PHP Stack trace:
+[09-Jan-2025 15:59:02 Europe/Paris] PHP   1. {main}() C:\php\gestion-stages\bin\console:0
+[09-Jan-2025 14:59:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\curl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:59:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\mbstring' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:59:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\openssl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 14:59:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\zip' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:59:31 Europe/Paris] PHP Parse error:  syntax error, unexpected '?' in C:\php\gestion-stages\vendor\autoload_runtime.php on line 15
+[09-Jan-2025 15:59:31 Europe/Paris] PHP Stack trace:
+[09-Jan-2025 15:59:31 Europe/Paris] PHP   1. {main}() C:\php\gestion-stages\bin\console:0
+[09-Jan-2025 15:00:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\curl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:00:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\mbstring' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:00:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\openssl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:00:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\zip' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 16:00:21 Europe/Paris] PHP Parse error:  syntax error, unexpected '?' in C:\php\gestion-stages\vendor\autoload_runtime.php on line 15
+[09-Jan-2025 16:00:21 Europe/Paris] PHP Stack trace:
+[09-Jan-2025 16:00:21 Europe/Paris] PHP   1. {main}() C:\php\gestion-stages\bin\console:0
+[09-Jan-2025 15:00:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\curl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:00:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\mbstring' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:00:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\openssl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:00:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\zip' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 16:00:43 Europe/Paris] PHP Parse error:  syntax error, unexpected '?' in C:\php\gestion-stages\vendor\autoload_runtime.php on line 15
+[09-Jan-2025 16:00:43 Europe/Paris] PHP Stack trace:
+[09-Jan-2025 16:00:43 Europe/Paris] PHP   1. {main}() C:\php\gestion-stages\bin\console:0
+[09-Jan-2025 15:04:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\curl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:04:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\mbstring' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:04:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\openssl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:04:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\zip' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 16:04:56 Europe/Paris] PHP Parse error:  syntax error, unexpected '?' in C:\php\gestion-stages\vendor\autoload_runtime.php on line 15
+[09-Jan-2025 16:04:56 Europe/Paris] PHP Stack trace:
+[09-Jan-2025 16:04:56 Europe/Paris] PHP   1. {main}() C:\php\gestion-stages\bin\console:0
+[09-Jan-2025 15:15:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\curl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:15:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\mbstring' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:15:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\openssl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:15:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\zip' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 16:15:45 Europe/Paris] PHP Parse error:  syntax error, unexpected '?' in C:\php\gestion-stages\vendor\autoload_runtime.php on line 15
+[09-Jan-2025 16:15:45 Europe/Paris] PHP Stack trace:
+[09-Jan-2025 16:15:45 Europe/Paris] PHP   1. {main}() C:\php\gestion-stages\bin\console:0
+[09-Jan-2025 15:17:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\curl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:17:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\mbstring' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:17:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\openssl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:17:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\zip' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 16:17:35 Europe/Paris] PHP Parse error:  syntax error, unexpected '?' in C:\php\gestion-stages\vendor\autoload_runtime.php on line 15
+[09-Jan-2025 16:17:35 Europe/Paris] PHP Stack trace:
+[09-Jan-2025 16:17:35 Europe/Paris] PHP   1. {main}() C:\php\gestion-stages\bin\console:0
+[09-Jan-2025 15:19:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\curl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:19:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\mbstring' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:19:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\openssl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:19:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\zip' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 16:19:28 Europe/Paris] PHP Parse error:  syntax error, unexpected '?' in C:\php\gestion-stages\vendor\autoload_runtime.php on line 15
+[09-Jan-2025 16:19:28 Europe/Paris] PHP Stack trace:
+[09-Jan-2025 16:19:28 Europe/Paris] PHP   1. {main}() C:\php\gestion-stages\bin\console:0
+[09-Jan-2025 15:23:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\curl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:23:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\mbstring' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:23:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\openssl' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 15:23:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ext\zip' - Le module spécifié est introuvable.
+ in Unknown on line 0
+[09-Jan-2025 16:23:56 Europe/Paris] PHP Parse error:  syntax error, unexpected '?' in C:\php\gestion-stages\vendor\autoload_runtime.php on line 15
+[09-Jan-2025 16:23:56 Europe/Paris] PHP Stack trace:
+[09-Jan-2025 16:23:56 Europe/Paris] PHP   1. {main}() C:\php\gestion-stages\bin\console:0
