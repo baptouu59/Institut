@@ -1,0 +1,5 @@
+[Thu Jan 09 15:50:34.219308 2025] [mpm_winnt:notice] [pid 5404:tid 844] AH00455: Apache/2.4.9 (Win32) PHP/5.5.12 configured -- resuming normal operations
+[Thu Jan 09 15:50:34.219308 2025] [mpm_winnt:notice] [pid 5404:tid 844] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:13:13
+[Thu Jan 09 15:50:34.219308 2025] [core:notice] [pid 5404:tid 844] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Thu Jan 09 15:50:34.223826 2025] [mpm_winnt:notice] [pid 5404:tid 844] AH00418: Parent: Created child process 3916
+[Thu Jan 09 15:50:34.887072 2025] [mpm_winnt:notice] [pid 3916:tid 832] AH00354: Child: Starting 64 worker threads.
